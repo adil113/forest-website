@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.collapse .btn-primary{
+    font-size: 13px;
+    padding: 9px 20px;
+    font-weight: 600;
+}
+
+.navbar-nav .nav-item .nav-link {
+font-size: 14px;
+font-weight: 600;
+}
+
+.hero-text span{
+    color: rgba(22, 22, 236, 0.712);
+    font-weight: 600;
+    font-size: 14px;
+
+}
+.hero-text h1{
+    color: #0E1133;
+    font-weight: 600;
+    font-size: 50px;
+}
+.hero-text .download-btn {
+    background-color: #0E1133;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 500;
+    padding: 10px 17px;
+    margin-right: 10px;
+}
+
+.sec-section{
+    background-color: #EEF1F6;
+    padding: 80px 0px;
+}
+
+.third-section{
+padding-bottom: 100px!important;
+}
+.third-text h1{
+    color: #0E1133;
+    font-weight: 600;
+    font-size: 50px;
+    padding: 10px;
+}
+.third-text span{
+    color: rgba(22, 22, 236, 0.712);
+    font-weight: 600;
+    font-size: 14px;
+}
+.third-sec i{
+    padding: 6px;
+    color: #fff;
+    background-color: #889088;
+    height: 26px;
+    border-radius: 50px;
+}
+.third-sec > i:nth-child(2){
+    background-color: green!important;
+}
+
+.forth-section{
+    text-align: center;
+    background-color: blue;
+    height: 300px;
+    padding: 100px;
+    margin-top: 70px;
+}
+
+.fifth-section{
+    margin: 70px;
+}
+.team-member h2{
+    color: #0E1133;
+    font-family: "Roboto",Sans-serif;
+    font-size: 44px;
+    font-weight: 900;
+    line-height: 34px;
+}
+.team-mmeber p{
+    text-align: center;
+    color: #505056;
+    font-size: 18px;
+    line-height: 28px;
+}
+.team-member img{
+    width: 210px;
+    height: 250px;
+}
+.team-member h4{
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 1.2em;
+    color: #0E1133;
+}
+.team-member p{
+    font-size: 12px;
+}
+.team-member button{
+    font-size: 14px;
+    border: rgba(255, 255, 255, 0);
+    padding: 10px;
+}
+.sixth-section{
+    background: #e1e9e1;
+    margin: 20px 20px 0px 0px;
+    padding: 70px;
+}
+.card{
+    padding: 24px 20px;
+    
+    
+}
+.card h4{
+    font-size: 15px;
+    font-weight: 800;
+}
+.card strong{
+    font-size: 17px;
+}
+.card h2{
+    font-size: 20px;
+    font-weight: 900;
+}
+.card span{
+    font-size: 12px;
+}
+.card p{
+    font-size: 12px;
+}
+.card i{
+    color: green;
+    background: #EEF1F6;
+    border-radius: 1px;
+    margin: 10px;
+}
+.card:hover{
+    background: #505056;
+    color: #0E1133;
+}
+.question{
+margin: 50px 5px 0px 0px;
+padding: 20px;
+}
+.question h2{
+    font-weight: 900;
+}
+.question p{
+    font-weight: 500;
+    font-size: 9px;
+}
+.question span{
+    font-size: 14px;
+    font-weight: 900;
+}
+.seventh-section a{
+    color: black;
+}
+.seventh-section a:hover{
+    color: rgb(4, 0, 255);
+}
